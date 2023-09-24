@@ -7,7 +7,7 @@ Por favor, leia a pequena documentação abaixo
 
     O código está bem comentado e deve ser relativamente fácil entender como ele funciona e os problemas. Consulte a área de bugs e problemas aqui . Se você não é desenvolvedor, mesmo assim é importante olhar tanto a área de bugs, quanto a área seguinte:
 
-# IMPORTANTE: Esse programa serve para mim? {#IMPORTANTE}
+# IMPORTANTE: Esse programa serve para mim?
 
     Esse programa serve para você se:
 
