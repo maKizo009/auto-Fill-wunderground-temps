@@ -45,12 +45,12 @@ Por favor, leia a pequena documentação abaixo
    - Formatação condicional não funciona em planilha copiada: Isso é fácil resolver. Basta você mesmo fazer a cópia da planilha, as renomeando com o "MesANO", como eu mencionei no início;
    - Problemas no dia 1 e mês de janeiro: Por favor, teste se os dias 1 de cada mês estão sendo preenchidos corretamente. No começo eu tinha notado isso, então implementei uma estrutura condicional de que:
 
-   Pseudocódigo:
-   
-   variável dia recebe dia de hoje
-   Se variável dia for diferente de 1,
-   variável dia receberá dia de hoje - 1
-   variável mes também receberá mes atual - 1
+    Pseudocódigo:
+    
+    variável dia recebe dia de hoje
+    Se variável dia for diferente de 1,
+    variável dia receberá dia de hoje - 1
+    variável mes também receberá mes atual - 1
    
    (se o dia for de 2 a 31, por exemplo, ele irá pegar o dia anterior. Se for dia 1, ele deve pular para o mês anterior, mas não sei se isso é perfeitamente funcional).
    
