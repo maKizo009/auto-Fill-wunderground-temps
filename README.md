@@ -17,8 +17,8 @@ Por favor, leia a pequena documentação abaixo
    - Os dados da sua planilha começam na linha 4 e coluna B, com cada estação separada por  colunas:
       Sua planilha tem uma estação que ocupa duas colunas, uma para mínima e outra para máxima? Ela tem dados de várias estações em uma única aba e você gostaria de automatizar a coleta desses dados? Se sim, então esse projeto tem grandes chances de se adequar às suas necessidades. Observe o exemplo:
 
-   "ESTACAO1 - WUNDERGROUND UTC		ESTCAO2 - WUNDERGROUND		ESTACAO3 WUNDERGROUND"
-    MIN	        MAX                     MIN         MAX             MIN         MAX
+    "ESTACAO1 - WUNDERGROUND UTC		ESTCAO2 - WUNDERGROUND		ESTACAO3 WUNDERGROUND"
+     MIN	        MAX                     MIN         MAX             MIN         MAX
 
    Nesse exemplo, temos três estações, e todas elas estão separadas por colunas que, por sua vez, são divididas em subcolunas de mínima e máxima.
 
