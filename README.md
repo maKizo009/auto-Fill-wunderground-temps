@@ -10,18 +10,20 @@ Por favor, leia a pequena documentação abaixo
 # IMPORTANTE: Esse programa serve para mim?
 
    Esse programa serve para você se:
-
-   - Você quer automatizar a coleta de um conjunto de estções do Wunderground: (Se você quer automatizar apenas uma estação, o repositório "Autofill Wunderground" estará disponível muito em breve);
-   - Sua planilha tem abas com o nome "MesANO": Por exemplo: "Setembro2023". Ele verifica se existe uma aba com o nome do mês atual e ano atual e, se tiver, abre e adiciona os dados. Se não tiver, ele duplica a anterior e renomeia com o nome do mês atual. Isso funciona, contanto que você não tenha nehuma formatação condicional ou não se importa com isso, pois parece que implementar tal função seria bem mais difícil e confesso que me falta conhecimento técnico para tal;
-   - Os dados da sua planilha começam na linha 4 e coluna B, com cada estação separada por  colunas: Sua planilha tem uma estação que ocupa duas colunas, uma para mínima e outra para máxima? Ela tem dados de várias estações em uma única aba e você gostaria de automatizar a coleta desses dados? Se sim, então esse projeto tem grandes chances de se adequar às suas necessidades. Observe o exemplo:
+   - Você quer automatizar a coleta de um conjunto de estções do Wunderground:
+     (Se você quer automatizar apenas uma estação, o repositório "Autofill Wunderground" estará disponível muito em breve);
+   - Sua planilha tem abas com o nome "MesANO":
+     Por exemplo: "Setembro2023". Ele verifica se existe uma aba com o nome do mês atual e ano atual e, se tiver, abre e adiciona os dados. Se não tiver, ele duplica a anterior e renomeia com o nome do mês atual. Isso funciona, contanto que você não tenha nehuma formatação condicional ou não se importa com isso, pois parece que implementar tal função seria bem mais difícil e confesso que me falta conhecimento técnico para tal;
+   - Os dados da sua planilha começam na linha 4 e coluna B, com cada estação separada por  colunas:
+      Sua planilha tem uma estação que ocupa duas colunas, uma para mínima e outra para máxima? Ela tem dados de várias estações em uma única aba e você gostaria de automatizar a coleta desses dados? Se sim, então esse projeto tem grandes chances de se adequar às suas necessidades. Observe o exemplo:
 
    "ESTACAO1 - WUNDERGROUND UTC		ESTCAO2 - WUNDERGROUND		ESTACAO3 WUNDERGROUND"
     MIN	        MAX                     MIN         MAX             MIN         MAX
 
-       Nesse exemplo, temos três estações, e todas elas estão separadas por colunas que, por sua vez, são divididas em subcolunas de mínima e máxima.
+   Nesse exemplo, temos três estações, e todas elas estão separadas por colunas que, por sua vez, são divididas em subcolunas de mínima e máxima.
 
-
-   - Se você precisa apenas pegar a temperatura mínima e máxima do dia anterior: Com esse script até o momento só é possível adicionar as temperaturas. A funcionalidade de precipitação é perfeitamente possível de ser feita e seria relativamente mais fácil de implementar. No entanto, não vejo muita demanda disso no momento, então não mexi nisso;
+   - Se você precisa apenas pegar a temperatura mínima e máxima do dia anterior:
+      Com esse script até o momento só é possível adicionar as temperaturas. A funcionalidade de precipitação é perfeitamente possível de ser feita e seria relativamente mais fácil de implementar. No entanto, não vejo muita demanda disso no momento, então não mexi nisso;
    - Você também pode ajustar o código às suas necessidades.
 
 
