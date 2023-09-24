@@ -3,9 +3,9 @@ Automatizador de planilhas em
 
 Por favor, leia a pequena documentação abaixo
 
-## É desenvolvedor e gostaria de contribuir com o projeto? 
+## É desenvolvedor e gostaria de contribuir com o projeto?
 
- O código está bem comentado e deve ser relativamente fácil entender como ele funciona e os problemas. Consulte a área de bugs e problemas aqui . Se você não é desenvolvedor, mesmo assim é importante olhar tanto a área de bugs, quanto a área seguinte:
+ O código está bem comentado e deve ser relativamente fácil entender como ele funciona e os problemas. Consulte a área de bugs e problemas na sessão "possíveis problemas e bugs" . Se você não é desenvolvedor, mesmo assim é importante olhar tanto a área de bugs, quanto a área seguinte:
 
 # IMPORTANTE: Esse programa serve para mim?
 
@@ -22,6 +22,7 @@ Por favor, leia a pequena documentação abaixo
 
 
     - Se você precisa apenas pegar a temperatura mínima e máxima do dia anterior: Com esse script até o momento só é possível adicionar as temperaturas. A funcionalidade de precipitação é perfeitamente possível de ser feita e seria relativamente mais fácil de implementar. No entanto, não vejo muita demanda disso no momento, então não mexi nisso;
+    - Você também pode ajustar o código às suas necessidades.
 
 
 ## Todas as características desse projeto
